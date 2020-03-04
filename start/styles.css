@@ -1,0 +1,35 @@
+* {
+    margin:0px;
+    padding: 0px;
+
+}
+
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+/* home page css*/
+
+
+#home-container{
+    height: 100;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+
+.r1{
+    background-color: blue;
+}
+
+.r1-inner{
+    width: 80%;
+    
+}
+
+
+
+/*end home page css*/
+
+
